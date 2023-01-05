@@ -1,0 +1,12 @@
+.dashboard{
+    position: relative;
+    justify-content: center;
+    color: rgb(248, 248, 248);
+}
+.img1{
+    background:rgb(10, 10, 10) url("./img1.jpg") no-repeat fixed center;
+    padding:  17%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}

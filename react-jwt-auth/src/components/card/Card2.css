@@ -1,0 +1,14 @@
+.card {
+    color:blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    height: 250px;
+}
+/* .row__posters{
+    display: inline;
+    display: flex;
+    flex-wrap: wrap;
+} */

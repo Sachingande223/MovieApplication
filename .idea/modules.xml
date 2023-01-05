@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Movie Application/Movie-Application/Eureka-server/Eureka-server.iml" filepath="$PROJECT_DIR$/Movie Application/Movie-Application/Eureka-server/Eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie Application/Movie-Application/Movie-Application.iml" filepath="$PROJECT_DIR$/Movie Application/Movie-Application/Movie-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie Application/Movie-Application/apigateway-service/apigateway-service.iml" filepath="$PROJECT_DIR$/Movie Application/Movie-Application/apigateway-service/apigateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie Application/Movie-Application/mongocode-master/mongo.iml" filepath="$PROJECT_DIR$/Movie Application/Movie-Application/mongocode-master/mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/movieapplication.iml" filepath="$PROJECT_DIR$/.idea/movieapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie Application/Movie-Application/spring-boot-spring-security-jwt-authentication-master/spring-boot-security-jwt.iml" filepath="$PROJECT_DIR$/Movie Application/Movie-Application/spring-boot-spring-security-jwt-authentication-master/spring-boot-security-jwt.iml" />
+    </modules>
+  </component>
+</project>

@@ -16,12 +16,17 @@ Above all, we hope to provide a comfortable user experience along with the best 
 * Display recommendation, favourite list
 
 # User Interfaces
-
 * Front-end software: React JS
 * Back-end software: MySQL, MongoDB
 
 # Hardware Interfaces
-
 * Windows.
 * A browser which supports HTML & JavaScript.
 
+# Microservies ports
+*Login and Registraion microservice runs on 8080 default port.
+*Favourite service microservice runs on port 8088.
+*Api-gateway-service runs on port 9090.
+
+# Eureka Server
+*Eureka server runs on port 8761.
