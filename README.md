@@ -7,11 +7,11 @@ Above all, we hope to provide a comfortable user experience along with the best 
 
 # System Functionality
 
-* Create landing Page
-* Create Register Page, after registration Login Page
-* Create Login Page
+* Created landing Page
+* Created Register Page, after registration Login Page
+* Created Login Page
 * Authenticate the user, if registered user  User login Page, else Register Page
-* Create User Login Page
+* Created User Login Page
 * Search different movies
 * Display recommendation, favourite list
 
